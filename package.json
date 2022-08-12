@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon server2.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "googleapis": "^39.2.0",
+    "just-clone": "^6.0.1"
+  },
+  "name": "albionbot",
+  "version": "1.0.0",
+  "main": "server2.js",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
